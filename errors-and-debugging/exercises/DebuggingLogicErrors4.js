@@ -1,8 +1,8 @@
 // Now consider both if/else blocks together (keeping the added console.log lines). 
 // Run the code and examine the output. 
 
-// Given the values for fuelLevel, crewStatus and computerStatus, should launchReady be true or false?
-// Is the program behaving as expected?
+// Given the values for fuelLevel, crewStatus and computerStatus, should launchReady be true or false? launchReady should be false
+// Is the program behaving as expected? Yes the program is following the code as written. 
 
 let launchReady = false;
 let fuelLevel = 17000;
@@ -34,4 +34,4 @@ console.log("launchReady = ", launchReady);
 //    console.log('Liftoff!');
 // } else {
 //    console.log('Launch scrubbed.');
-// }
+// }  
